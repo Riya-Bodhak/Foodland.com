@@ -1,0 +1,19 @@
+.index{
+    background-color: mediumseagreen;
+ 
+}
+
+
+
+
+.gallery{
+    background-color: pink;
+}
+
+.order{
+    background-color: skyblue;
+}
+
+.square{
+    list-style-type: square;
+}
